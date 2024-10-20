@@ -3,11 +3,9 @@
 Yes i did base my internet existence out of a watchdogs character 
 
 ## I am a:
-- public speaker/debator
 - content writer
-- Business/international desk journalist at @Truth.India
 - Backend developer
-- Software developer
+- app developer
 - Pentester
 
 ## Development skills:
